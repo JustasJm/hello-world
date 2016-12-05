@@ -2,4 +2,4 @@
 Bandomoji versija
 
 Sveiki,
-tai mano pirmasis bandymas Github. Tikiuosi ateityje išmokti naudotis šia platforma.yymasę
+tai mano pirmasis bandymas Github. Tikiuosi ateityje išmokti naudotis šia platforma.
